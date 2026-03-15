@@ -64,6 +64,7 @@ Building scalable mobile apps and mobile platforms.
 - 🧩 Various iOS architecture experiments and demos
 
 ---
+![](https://komarev.com/ghpvc/?username=yashbedi)
 
 ⭐️ *Always exploring better ways to build scalable mobile applications.*
 
