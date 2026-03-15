@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Yash Bedi</h1>
 <h3 align="center">Senior Mobile Engineer | iOS | Mobile Architecture | System Design</h3>
 
